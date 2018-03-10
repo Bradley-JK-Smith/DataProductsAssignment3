@@ -13,6 +13,12 @@ shinyUI(fluidPage(
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
     sidebarPanel(
+       h4('Instructions'),
+       p('Select the number of gears you want and select the number of cyclinders you want and the number of cars that match is shown AUTOMATICALLY'),
+       p('Dial up the right MPG and Quarter-Mile seconds and the lines on the graph will MOVE BEFORE YOUR EYES.'),
+       p('Then hit SELECT and Brad\'s Car Selector will DO THE REST.'),
+       p('The right car for YOU will be displayed.'),
+       br(),
        selectInput("ngear",
                    label = "Choose number of gears",
                    choices = list('ANY',3,4,5)
