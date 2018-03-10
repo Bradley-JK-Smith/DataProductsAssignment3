@@ -1,0 +1,45 @@
+Brad's Car Selector
+========================================================
+author: Bradley Smith
+date: 10 March 2018
+autosize: true
+
+Customers
+========================================================
+
+Customers get the best outcome when they use **Brad's Car Selector**
+- WE use the most up-to-date car information from Motor Trends Car Road Tests 1973-74
+- YOU can choose the number of gears AND number of cylinders
+- YOU can select MPG and Quarter-Mile seconds
+- WE apply state of the art "machined learning"
+
+> Choose one of our sponsors and get a free mirror ball. It can spin from your rear-view mirror while you listen to disco music on your AM radio!
+
+Advertisers
+========================================================
+
+Advertisers get the best Customers when they advertise with **Brad's Car Selector**
+- YOU know that the customer is ready to buy
+- YOU know what features the customer is looking for
+- YOU get **your** name in the recommendation
+
+> Rates are very reasonable (and available on request)
+
+
+Investors (part 1)
+========================================================
+
+Here is YOUR chance to invest in this great business. Look at all the cars that are available!!
+
+```{r, echo=FALSE}
+rownames(mtcars)
+```
+
+Investors (part 2)
+========================================================
+
+LOOK at the type of detailed information that is available on these cars
+
+```{r, echo=TRUE}
+head(mtcars)
+```
