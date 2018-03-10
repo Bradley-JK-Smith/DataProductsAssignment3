@@ -2,7 +2,14 @@ Brad's Car Selector
 ========================================================
 author: Bradley Smith
 date: 10 March 2018
-autosize: true
+width: 960
+height: 700
+
+<style>
+.small-code pre code {
+  font-size: 16pt;
+}
+</style>
 
 Customers
 ========================================================
@@ -28,7 +35,7 @@ Advertisers get the best Customers when they advertise with **Brad's Car Selecto
 
 Investors (part 1)
 ========================================================
-
+class: small-code
 Here is YOUR chance to invest in this great business. Look at all the cars that are available!!
 
 
@@ -48,7 +55,7 @@ Here is YOUR chance to invest in this great business. Look at all the cars that 
 
 Investors (part 2)
 ========================================================
-
+class: small-code
 LOOK at the type of detailed information that is available on these cars
 
 
